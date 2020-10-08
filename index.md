@@ -6,6 +6,8 @@
   </head>
   <body>
     <h1>自我介绍</h1>
+     h1{backgound-color:white;
+    color:blue}
     <ui>
       <li>姓名：吴雨薇</li>
       <li>性别：女</li>
