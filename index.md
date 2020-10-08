@@ -18,3 +18,4 @@
 <h2>我的家乡</h2>
 <p>我来自广西壮族自治区的桂林市，我的家乡有山有水，还有丰富的历史文化。</p>
 <a href="https://baike.baidu.com/item/%E6%A1%82%E6%9E%97/7495?fr=aladdin">我的家乡桂林</a>
+<img src="images/2345_image_file_copy_4.jpg"/>
